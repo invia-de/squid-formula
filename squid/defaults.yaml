@@ -4,4 +4,4 @@ squid:
   service: squid
   conf_dir: /etc/squid
   conf_file: squid.conf
-  cache: /var/spool/squid
+  coredump_dir: /var/spool/squid
